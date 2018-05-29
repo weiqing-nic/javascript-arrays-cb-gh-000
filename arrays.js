@@ -1,10 +1,10 @@
 var chocolateBars = ["snickers", "hundred grand kitkat",
-  "skittles"]
+  "skittles"];
 
 
 function addElementToEndOfArray( array, element ){
   return [...array, element]
-  
+
 }
 
 function accessElementInArray(array, index){
